@@ -19,3 +19,4 @@ hot fix~
 remote to local
 by gitgroup123
 by outside
+by SSH
